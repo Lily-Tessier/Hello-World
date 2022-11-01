@@ -1,10 +1,7 @@
 # Hello-World
-# H1 a. Project Title
-## H2 b. Description
-### H3 c. How to Run Program
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
+## 1. Project Title
+## 2. Description
+## 3. How To Run Program
+## 4. Files Used
+## 5. Additional Documentation
+## 6. Versioning
